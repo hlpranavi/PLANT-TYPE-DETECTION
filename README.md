@@ -12,7 +12,19 @@ This project uses a machine learning-based classification model to detect and id
 **Farmers & Agriculturists:** Quickly identify crops and manage plant health more effectively.<br>
 **Botanists & Researchers:** Streamline species classification during field studies or lab research.<br>
 **Students & Educators:** Learn and teach plant taxonomy with the help of real-time, interactive examples.<br>
-**Tech for Green:** Supports the development of digital agriculture and eco-focused innovations.<br><br>
+**Tech for Green:** Supports the development of digital agriculture and eco-focused innovations.<br><be>
+
+⚙️ **Tech Stack** <br><br>
+🖥️ **Frontend (User Interface)** <br>
+Python tkinter – for building the desktop GUI<br>
+Pillow (PIL) – for image processing and display in the GUI<br>
+ImageTk – to convert images for display in tkinter<br>
+
+⚙️ **Backend (Model & Processing)** <br>
+OpenCV (cv2) – for reading and resizing image files<br>
+NumPy – for efficient numerical operations<br>
+TensorFlow / Keras – for building, training, and predicting with the CNN model<br>
+scikit-learn (sklearn) – for dataset splitting and preprocessing<br>
 
 This project highlights the power of machine learning and computer vision in transforming plant identification, paving the way for smarter, tech-driven solutions in agriculture and environmental sustainability.
 <br><br>
