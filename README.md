@@ -31,8 +31,13 @@ This project highlights the power of machine learning and computer vision in tra
 **OUTPUT**:<br>
 ![Screenshot 2025-06-21 213405](https://github.com/user-attachments/assets/347fd4ca-aa9c-4e48-8d18-ce2fd5168682)
 <br><br>
+![image](https://github.com/user-attachments/assets/d0aaf55c-ed09-42a1-af87-04363dc88366)
+<br><br>
+![image](https://github.com/user-attachments/assets/4b9794b0-e60c-4dcf-8609-3d9e6d4e40eb)
+<br><br>
 ![Screenshot 2025-06-21 213433](https://github.com/user-attachments/assets/4fbdf72f-fe02-453a-98b4-382bd9bafe25)
 <br><br>
+![Screenshot 2025-06-22 010204](https://github.com/user-attachments/assets/20983f2c-4115-429f-a534-0f7a60040664)
 
 
 
